@@ -18,7 +18,12 @@ Roll No: 25118040
 <img width="1280" height="793" alt="Screenshot 2026-01-01 at 5 36 26 PM" src="https://github.com/user-attachments/assets/dce4475b-fb10-45f5-a868-71128897d030" />
 <img width="1280" height="831" alt="Screenshot 2026-01-01 at 5 36 33 PM" src="https://github.com/user-attachments/assets/20f4c6c8-1606-41b4-9af0-94d40e63e14b" />
 
-
+## Day 2
+<img width="717" height="731" alt="Screenshot 2026-01-02 at 9 35 08 PM" src="https://github.com/user-attachments/assets/2a459070-8ba3-4b43-9361-b1cf03272649" />
+<img width="691" height="718" alt="Screenshot 2026-01-02 at 9 35 21 PM" src="https://github.com/user-attachments/assets/9214c2c5-ad30-458f-a649-82b6575e55b8" />
+<img width="909" height="440" alt="Screenshot 2026-01-02 at 9 35 31 PM" src="https://github.com/user-attachments/assets/4b543b8b-1dbd-4108-ac54-966c12cabf33" />
+<img width="1280" height="828" alt="Screenshot 2026-01-02 at 9 35 45 PM" src="https://github.com/user-attachments/assets/2650db27-83ab-4570-9598-ea8c16884324" />
+<img width="1280" height="754" alt="Screenshot 2026-01-02 at 9 35 50 PM" src="https://github.com/user-attachments/assets/112e70ec-8a11-4d96-87f6-9e713e73bc8a" />
 
 
 
